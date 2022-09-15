@@ -1,4 +1,5 @@
 # PathFinder
+The images and text below describe how the program works
 
 !["Intial game state"](https://github.com/vaish247/pathFinder2/blob/main/Initial%20game%20state.png?raw=true)
 The image above shows the initial state of the game. It consists of a game board made out of tiles and 4 control buttons.
